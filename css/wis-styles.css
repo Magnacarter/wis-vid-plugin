@@ -1,0 +1,10 @@
+#vid-div {
+	position: relative;
+	z-index: 1;
+}
+#log-me-in {
+	position: absolute;
+	top: 0;
+	z-index: 2;
+	background-color: #f18003;
+}
